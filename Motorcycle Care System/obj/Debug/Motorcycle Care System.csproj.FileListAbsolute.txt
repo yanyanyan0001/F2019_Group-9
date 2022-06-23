@@ -1,0 +1,33 @@
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Motorcycle Care System.dll.config
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Motorcycle Care System.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Motorcycle Care System.pdb
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\obj\Debug\Motorcycle Care System.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\obj\Debug\Motorcycle Care System.dll
+c:\users\user\documents\visual studio 2015\Projects\Motorcycle Care System\Motorcycle Care System\obj\Debug\Motorcycle Care System.pdb
